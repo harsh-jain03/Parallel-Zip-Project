@@ -10,12 +10,6 @@ to order the output (print in the same order as the input list).
 
 <sub>More information can be found [here](/assignment/Project3_para_zip.pdf).</sub>
 
-## Team members and contribution
-
-- Gary Tou ([@garyhtou](https://github.com/garyhtou))
-- Castel Villalobos ([@impropernoun](https://github.com/impropernoun))
-- Hank Rudolph ([@hankrud](https://github.com/HankRud))
-
 ## Design Considerations
 
 ### Paralleling the compression
