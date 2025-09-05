@@ -8,7 +8,6 @@ input files specified in the command line arguments using Run Length Encoding
 can safely access a shared unbounded buffer. Additional semaphores are also used
 to order the output (print in the same order as the input list).
 
-<sub>More information can be found [here](/assignment/Project3_para_zip.pdf).</sub>
 
 ## Design Considerations
 
